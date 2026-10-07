@@ -15,5 +15,5 @@
 
 1. **Clone repository về máy:**
    ```bash
-   git clone [https://github.com/vangsinh690/DTC241200007.git](https://github.com/vangsinh690/DTC241200007.git)
+   git clone https://github.com/vangsinh690/DTC241200007.git
    cd DTC241200007
